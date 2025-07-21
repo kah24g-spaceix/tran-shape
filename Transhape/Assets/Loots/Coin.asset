@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8afff94ce0c7b2b4b8744609f77d1932, type: 3}
+  m_Name: Coin
+  m_EditorClassIdentifier: 
+  lootSprite: {fileID: -2010758011, guid: 7560df103af45f443927c1ab57429357, type: 3}
+  lootAnimatorController: {fileID: 9100000, guid: d320b14ac5a846641a8776b51a4b3917, type: 2}
+  lootName: Coin
+  dropChance: 40
